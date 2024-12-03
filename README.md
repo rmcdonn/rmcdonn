@@ -4,14 +4,13 @@
 
 <a href="https://www.linkedin.com/in/bob-mcdonnell-27674031/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-Seasoned veteran with a focus on Security and a dedication to solving complex problems.
+Seasoned veteran with a focus on Security and a dedication to solving complex problems.  My journey through Information Technology started with Windows and Linux Administration, moving onto Virtualiztion and Storage, then Cloud Computing and Networking arriving at my desired location of CyberSecurity!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Continue to expand my knowledge base of CyberSecurity with autonomy.  Grow into new areas, and increase my understanding 
+
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
